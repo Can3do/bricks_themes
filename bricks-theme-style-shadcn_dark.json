@@ -1,0 +1,96 @@
+{
+  "label": "shadcn dark",
+  "settings": {
+    "_custom": true,
+    "conditions": {
+      "conditions": [
+        {
+          "id": "lsscqi",
+          "main": "any"
+        }
+      ]
+    },
+    "general": {
+      "siteBackground:mobile_portrait": {
+        "color": {
+          "hex": "#09090b"
+        }
+      }
+    },
+    "typography": {
+      "typographyHtml:mobile_portrait": "100%",
+      "typographyBody:mobile_portrait": {
+        "color": {
+          "hex": "#fafafa"
+        },
+        "font-family": "custom_font_31",
+        "font-size": "1rem",
+        "font-weight": "400"
+      },
+      "typographyHeadingH1:mobile_portrait": {
+        "font-size": "2.25rem",
+        "font-weight": "800",
+        "line-height": "2.5rem"
+      },
+      "typographyHeadingH1": {
+        "font-size": "3rem",
+        "line-height": "1"
+      },
+      "typographyHeadingH2:mobile_portrait": {
+        "font-size": "1.875rem",
+        "line-height": "2.25rem",
+        "font-weight": "700"
+      },
+      "typographyHeadingH3:mobile_portrait": {
+        "font-size": "1.5rem",
+        "line-height": "2rem",
+        "font-weight": "700"
+      },
+      "focusOutline:mobile_portrait": "none"
+    },
+    "button": {
+      "primaryBackground:mobile_portrait": {
+        "hex": "#fafafa"
+      },
+      "primaryTypography:mobile_portrait": {
+        "color": {
+          "hex": "#18181b"
+        },
+        "font-weight": "500"
+      },
+      "sizeDefaultPadding:mobile_portrait": {
+        "right": "1rem",
+        "left": "1rem",
+        "top": ".5rem",
+        "bottom": ".5rem"
+      },
+      "primaryBackground:mobile_portrait:hover": {
+        "hex": "#e2e2e2"
+      },
+      "transition:mobile_portrait": ".2s ease-out",
+      "border:mobile_portrait": {
+        "radius": {
+          "top": "calc(.5em - 2px)",
+          "right": "calc(.5em - 2px)",
+          "bottom": "calc(.5em - 2px)",
+          "left": "calc(.5em - 2px)"
+        }
+      },
+      "secondaryBackground:mobile_portrait": {
+        "hex": "#27272a"
+      },
+      "secondaryBackground:mobile_portrait:hover": {
+        "hex": "#212124"
+      }
+    },
+    "container": {
+      "width:mobile_portrait": "80rem",
+      "widthMax:mobile_portrait": "100%",
+      "padding:mobile_portrait": {
+        "left": "1.5rem",
+        "right": "1.5rem"
+      }
+    }
+  },
+  "id": "shadcn_dark"
+}
